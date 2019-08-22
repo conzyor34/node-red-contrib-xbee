@@ -1,10 +1,10 @@
 {
   "name": "node-red-contrib-xbee",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Node-RED module for the Xbee radio modules",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ramonmata/node-red-contrib-xbee.git"
+    "url": "https://github.com/conzyor34/node-red-contrib-xbee"
   },
   "keywords": [
     "node-red",
