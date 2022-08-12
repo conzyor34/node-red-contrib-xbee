@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-xbee",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Node-RED module for the Xbee radio modules",
   "repository": {
     "type": "git",
@@ -22,7 +22,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "serialport": "^7.1.0",
+    "node-gyp": "^9.1.0",
+    "package": "^1.0.1",
+    "package.json": "^2.0.1",
+    "serialport": "^10.4.0",
     "xbee-api": "^0.6.0"
   }
 }
